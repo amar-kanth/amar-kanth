@@ -9,14 +9,14 @@
 
 - 📫 How to reach me **amarkanth26@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Y9pNcPrfebFAkmrnbKPrzugXtsTb4i_O64v-T_PtEeM/edit?usp=sharing](https://docs.google.com/document/d/1Y9pNcPrfebFAkmrnbKPrzugXtsTb4i_O64v-T_PtEeM/edit?usp=sharing)
+- 📄 Know about my experiences(Resume) [https://docs.google.com/document/d/1Y9pNcPrfebFAkmrnbKPrzugXtsTb4i_O64v-T_PtEeM/edit?usp=sharing](https://docs.google.com/document/d/1Y9pNcPrfebFAkmrnbKPrzugXtsTb4i_O64v-T_PtEeM/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/amarkanth26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amarkanth26" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amarkanthv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amarkanthv" height="30" width="40" /></a>
 <a href="https://kaggle.com/vamarkanthtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vamarkanthtech" height="30" width="40" /></a>
-<a href="https://medium.com/amarkanth26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="amarkanth26" height="30" width="40" /></a>
+<a href="https://medium.com/@amarkanth26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@amarkanth26" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/amarkanth26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amarkanth26" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/amarkanth26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amarkanth26" height="30" width="40" /></a>
 </p>
